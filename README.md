@@ -21,5 +21,5 @@ Bu proje, React bileşenlerinin test senaryolarını içermektedir. Aşağıda, 
 
 <h4>Test Senaryosu Açıklama:</h4>Bu test senaryosu, "Toppings" bileşenindeki sos kartlarına yapılan seçimlerin sepet state'i üzerinde doğru şekilde değişiklik yapılıp yapılmadığını kontrol eder.
 
-<a href="">Canlı Önizleme</a>
-<img src="" alt="">
+<a href="https://unittesting-icecream.netlify.app">Canlı Önizleme</a>
+<img src="./public//images/screen.gif" alt="">
